@@ -1,0 +1,4 @@
+This is a network file
+
+vlans:
+  red: ping
