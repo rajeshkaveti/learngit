@@ -1,0 +1,8 @@
+S2:
+
+This is a network file
+
+
+vlans:
+  red: ping
+  blue:ping
