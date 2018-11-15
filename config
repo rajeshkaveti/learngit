@@ -1,0 +1,4 @@
+[profile user2]
+region = us-east-1
+[default]
+region = us-east-1
